@@ -1,1 +1,1 @@
-# landing-page
+A modern design for a website's landing page created using HTML and CSS as well as the Flexbox layout model.
