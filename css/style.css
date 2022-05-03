@@ -136,3 +136,28 @@ h2 {
 }
 
 /* **************************** */
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 0px 100px 64px;
+}
+
+.quote .middle {
+    display: flex;
+    flex-direction: column;
+    width: 840px;
+}
+
+.quote-text {
+    text-align: left;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-author {
+    font-weight: bold;
+    font-size: 24px;
+    align-self: end;
+}
